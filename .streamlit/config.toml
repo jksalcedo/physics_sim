@@ -1,0 +1,16 @@
+[theme]
+# The base theme can be "light" or "dark".
+base="dark"
+
+# Primary accent color for interactive elements.
+# You can keep Streamlit's default pink or choose another, e.g., a nice blue:
+# primaryColor="#4A90E2" 
+# Or green:
+# primaryColor="#5cb85c"
+
+# Colors are generally handled well by the base theme, 
+# but you can uncomment and customize these if needed:
+# backgroundColor="#0e1117"
+# secondaryBackgroundColor="#262730"
+# textColor="#fafafa"
+# font="sans serif"
